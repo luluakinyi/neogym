@@ -1,0 +1,32 @@
+section{
+background-image: url("hero-bg.jpg");
+}
+
+
+
+.navigationbar{ width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    position: relative;
+    color: white;
+
+}
+ul{
+    display: flex;
+    align-items: flex-end;
+}
+.text2{
+    align-content: center;
+    color: white;text-align: center;
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment:fixed ;
+    font-family: sans-serif;
+}
+button{
+
+}
